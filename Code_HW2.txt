@@ -1,0 +1,1 @@
+The index.js file is where all the backend code is written, such as the endpoint logic, database connection, etc. 
